@@ -1,3 +1,4 @@
 Add the Database Details to settings.py
 Structure of database in models.py
-Forms.py for validating input in database
+forms.py for validating input in database
+views.py for functions
