@@ -1,0 +1,2 @@
+Add the Database Details to settings.py
+Structure of database in models.py
